@@ -23,3 +23,15 @@ Abaixo apresentamos formas de mapeamento dos elementos da página web:
 <div align="center">
     <img width="750" src="git_elements.jpeg">
 </div>
+
+## Conhecendo um a estrutura de um Elemento:
+Primeiro temos que saber o que é um elemento antes de capturá-lo, já sabemos que existem várias possibilidades de busca, seja ela por um valor, um conteúdo, uma tag, um atributo, todo esse conjunto forma um elemento, e dentro desse elemento que podemos realizar nossa busca para interagir.
+
+O que forma esse elemento é uma estrutura ou bloco de códigos, mas individual para cada elemento dentro da tela, para que possamos interagir com eles e fazer o mapeamento correto
+
+Exemplo:
+    
+<div align="center">
+    <img width="750" src="tpelements.jpeg">
+</div>
+    
