@@ -1,4 +1,4 @@
-# Objetivo do sistema
+# Sistema de automação de testes
 escrever objetivo do sistema aqui
 
 1. [Requisitos](https://github.com/IMeinen/automacao_emu/blob/master/requerimentos.md)
