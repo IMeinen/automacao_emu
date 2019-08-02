@@ -21,5 +21,5 @@ Quando iniciamos nossa vida em testes automatizados, a primeira coisa queprecisa
 Abaixo apresentamos formas de mapeamento dos elementos da página web:
 
 <div align="center">
-    <img width="750" src="doc/source/images/Cloud%20Config%2001.png">
+    <img width="750" src="git_elements.jpeg">
 </div>
