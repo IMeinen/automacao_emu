@@ -32,8 +32,9 @@ class AcessarGoogle(Locators):
         """ O método 'selecionar_oportunidades' clica no botão 'OPORTUNIDADES' no site da Zallpy """
         self.clicar_elemento(self.driver.find_element_by_link_text(self.OPORTUNIDADES_BUTTON))
 
-    def selecionar_vagas_dev(self):
-        """ A função 'selecionar_vagas_dev' retorna uma lista com todas as vagas da página de 'oportunidades' """
+    def selecionar_vagas_disponiveis(self):
+        """ A função 'selecionar_vagas_disponiveis' retorna uma lista com todas as vagas da página de 'oportunidades'
+        """
         lis = self.driver.find_elements_by_tag_name('h2')
         lis = [x.text for x in lis]
         return lis
