@@ -21,11 +21,11 @@ class MinhaAction(AcessarGoogle):
         """ O método 'acessar_oportunidades' acessa a aba de 'Oportunidades' no site da Zallpy """
         self.selecionar_oportunidades()
 
-    def validar_vaga_dev(self) -> bool:
+    def validar_vaga_dev(self,tipo_vaga) -> bool:
         """ A função 'validar_vaga_dev' recebe a lista com as vagas disponíveis,
-         e retorna 'True' se encontrou alguma vaga de 'desenvolvedor' """
-        lista = self.selecionar_vagas_dev()
-        if any("desenvolvedor" in texto.lower() for texto in lista):
+         e retorna 'True' se encontrou alguma vaga de 'tipo_vaga' """
+        lista = self.selecionar_vagas_disponiveis()
+        if any(tipo_vaga in texto.lower() for texto in lista):
             return True
         else:
-            print('Vagas de desenvolvedor não encontradas!')
+            print('Vagas de {} não encontradas!'.format(tipo_vaga))
