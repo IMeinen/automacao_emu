@@ -1,4 +1,4 @@
-from functions import Locators
+from locators import Locators
 
 '''
     Através desse pacote é feito o mapeamento dos elementos e todas as funções que interagem com eles
