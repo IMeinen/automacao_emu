@@ -1,7 +1,7 @@
 # Sistema de automação de testes
 
 ## Sumário:
-* [1. Objetivo](#1-Objetivo:)
+* [Objetivo](# Objetivo:)
 
 ## Objetivo:
 O objetivo do sistema é emular a arquitetura de automação do framework de um cliente específico , tornando assim possível a automação de qualquer página web.
