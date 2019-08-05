@@ -35,3 +35,16 @@ Exemplo:
     <img width="750" src="tpelements.jpeg">
 </div>
     
+## Como identificaro Elemento
+Quando estamos utilizando uma página web, por exemplo, temos a opção de apertar a tecla F12 do teclado, abrindo assim a página do desenvolvedor, nela a aba de inspeção de elementos, ou clicando com o botão direito do mouse em cima da opção que queremos mapear e clicar em inspecionar.
+
+Utilizando o F12 do teclado, em qualquer navegador.
+
+<div align="center">
+    <img width="750" src="f12_0.jpeg">
+</div>
+
+<div align="center">
+    <img width="750" src="f12_1.jpeg">
+</div>
+
