@@ -38,3 +38,4 @@ class AcessarGoogle(Locators):
         lis = self.driver.find_elements_by_tag_name('h2')
         lis = [x.text for x in lis]
         return lis
+
