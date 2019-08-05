@@ -29,7 +29,7 @@ Quando iniciamos nossa vida em testes automatizados, a primeira coisa queprecisa
 Abaixo apresentamos formas de mapeamento dos elementos da página web:
 
 <div align="center">
-    <img width="750" src="git_elements.jpeg">
+    <img width="750" src="images/git_elements.jpeg">
 </div>
 
 ## Conhecendo a estrutura de um Elemento:
@@ -40,7 +40,7 @@ O que forma esse elemento é uma estrutura ou bloco de códigos, mas individual 
 Exemplo:
     
 <div align="center">
-    <img width="750" src="tpelements.jpeg">
+    <img width="750" src="images/tpelements.jpeg">
 </div>
     
 ## Como identificar o Elemento:
@@ -49,11 +49,11 @@ Quando estamos utilizando uma página web, por exemplo, temos a opção de apert
 Utilizando o F12 do teclado, em qualquer navegador.
 
 <div align="center">
-    <img width="750" src="f12_0.jpeg">
+    <img width="750" src="images/f12_0.jpeg">
 </div>
 
 <div align="center">
-    <img width="750" src="f12_1.jpeg">
+    <img width="750" src="images/f12_1.jpeg">
 </div>
 
 ## Quando automatizar os testes:
@@ -69,12 +69,12 @@ Dessa forma, é importante ficar atento ao fato de que os testes precisam ser in
 
 ## A arquitetura do projeto:
 <div align="center">
-    <img width="750" src="arquitetura.jpeg">
+    <img width="750" src="images/arquitetura.jpeg">
 </div>
 
 ## Fluxo de criação dos casos de teste:
 <div align="center">
-    <img width="750" src="ordem_dev.jpeg">
+    <img width="750" src="images/ordem_dev.jpeg">
 </div>
 
 
