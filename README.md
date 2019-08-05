@@ -7,10 +7,10 @@ fazer sumuario aqui
 O objetivo do sistema é emular a arquitetura de automação do framework de um cliente específico , tornando assim possível a automação de qualquer página web.
 
 ## Benefícios da automação de testes:
-* Redução da mão de obra 
-* Redução de custos
-* Redução da possibilidade de erros
-* Maior velocidade nos testes 
+* Redução da mão de obra; 
+* Redução de custos;
+* Redução da possibilidade de erros;
+* Maior velocidade nos testes;
 * Criar os casos de teste apenas uma vez, executar quantas vezes for preciso sem precisar de um QA para testar de novo.
 
 
