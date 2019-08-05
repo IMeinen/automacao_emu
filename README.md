@@ -48,3 +48,26 @@ Utilizando o F12 do teclado, em qualquer navegador.
     <img width="750" src="f12_1.jpeg">
 </div>
 
+## Quando automatizar os testes:
+Os testes podem ser automatizados em qualquer momento do desenvolvimento ou alteração do software. O ideal é que eles comecem desde as primeiras linhas de programação —ou até mesmo antes, por meio da chamada técnica TDD (Test-driven development). Além disso, durante o projeto, você pode rodar uma bateria de testes semanais ou diários, de forma a identificar possíveis falhas ao longo do processo.
+
+## Quais testes podem ser automatizados:
+São dois os principais tipos de testes que podem ser automatizados: o teste unitário e o teste funcional. O primeiro se refere a testes de ponto a ponto, ou seja, quando eles são feitos em cada um dos fragmentos do código. Já o segundo é um tipo de teste que simula a interação com o usuário, garantindo que o conjunto de funcionalidades esteja correto.
+
+
+## Os principais desafios da automatização de testes:
+O principal desafio relacionado ao tema em questão é a programação do próprio teste. Se a equipe de TI deixa para realizar o teste apenas quando o produto já está pronto, pode ser que a programação seja tão demorada quanto o desenvolvimento de um novo software.
+Dessa forma, é importante ficar atento ao fato de que os testes precisam ser iniciados logo no início do processo. Além disso,devem ser feitos de maneira contínua durante todo o desenvolvimento do produto pelo time de TI.
+
+## A arquitetura do projeto:
+<div align="center">
+    <img width="750" src="arquitetura.jpeg">
+</div>
+
+## Fluxo de criação dos casos de teste:
+<div align="center">
+    <img width="750" src="ordem_dev.jpeg">
+</div>
+
+
+
