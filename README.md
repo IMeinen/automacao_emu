@@ -1,12 +1,12 @@
 # Sistema de automação de testes
 
-## Sumuário
+## Sumário
 fazer sumuario aqui
 
 ## Objetivo
-O objetivo do sistema é emular a arquitetura de automação do framework da *** , tornando assim possível a automação de qualquer página web .
+O objetivo do sistema é emular a arquitetura de automação do framework de um cliente específico , tornando assim possível a automação de qualquer página web.
 
-## Benefícios da automação de testes
+## Benefícios da automação de testes:
 * Redução da mão de obra 
 * Redução de custos
 * Redução da possibilidade de erros
@@ -32,7 +32,7 @@ Abaixo apresentamos formas de mapeamento dos elementos da página web:
     <img width="750" src="git_elements.jpeg">
 </div>
 
-## Conhecendo um a estrutura de um Elemento:
+## Conhecendo a estrutura de um Elemento:
 Primeiro temos que saber o que é um elemento antes de capturá-lo, já sabemos que existem várias possibilidades de busca, seja ela por um valor, um conteúdo, uma tag, um atributo, todo esse conjunto forma um elemento, e dentro desse elemento que podemos realizar nossa busca para interagir.
 
 O que forma esse elemento é uma estrutura ou bloco de códigos, mas individual para cada elemento dentro da tela, para que possamos interagir com eles e fazer o mapeamento correto
@@ -43,7 +43,7 @@ Exemplo:
     <img width="750" src="tpelements.jpeg">
 </div>
     
-## Como identificaro Elemento
+## Como identificar o Elemento:
 Quando estamos utilizando uma página web, por exemplo, temos a opção de apertar a tecla F12 do teclado, abrindo assim a página do desenvolvedor, nela a aba de inspeção de elementos, ou clicando com o botão direito do mouse em cima da opção que queremos mapear e clicar em inspecionar.
 
 Utilizando o F12 do teclado, em qualquer navegador.
