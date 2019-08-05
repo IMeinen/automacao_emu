@@ -11,7 +11,7 @@ O objetivo do sistema é emular a arquitetura de automação do framework de um 
 * Redução de custos;
 * Redução da possibilidade de erros;
 * Maior velocidade nos testes;
-* Criar os casos de teste apenas uma vez, executar quantas vezes for preciso sem precisar de um QA para testar de novo.
+* Utilização da automação nos testes de regressão;
 
 
 ## Como funciona a automação de testes:
