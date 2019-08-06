@@ -21,8 +21,8 @@ O objetivo do sistema é emular a arquitetura de automação do framework de um 
 
 ## 2. Pré-requisitos
 * [1. Instalação das dependências](1-objetivo)
-* [2. Overview Python](#2-pré-requisitos)
-* [3. Overview BDD](#3-benefícios-da-automação-de-testes)
+* [2. Overview Python](https://github.com/IMeinen/automacao_emu/blob/master/BDD%20word.odt)
+* [3. Overview BDD](https://github.com/IMeinen/automacao_emu/blob/master/BDD%20word.odt)
 
 ## 3. Benefícios da automação de testes
 * Redução da mão de obra; 
