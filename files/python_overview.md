@@ -1,52 +1,52 @@
-1. O que é Python?
+## O que é Python?
 
 Python é uma linguagem de programação criada por Guido van Rossum em 1991. Os objetivos do projeto da linguagem eram: produtividade e legibilidade. Em outras palavras, Python é uma linguagem que foi criada para produzir código bom e fácil de manter de maneira rápida. Entre as características da linguagem que ressaltam esses objetivos estão:
 
-    • Baixo uso de caracteres especiais, o que torna a linguagem muito parecida com pseudo-código executável;
-    • O uso de identação para marcar blocos;
-    • Python é uma boa linguagem para começar a aprender programação
-    • Coletor de lixo para gerenciar automaticamente o uso da memória;
+    Baixo uso de caracteres especiais, o que torna a linguagem muito parecida com pseudo-código executável;
+    O uso de identação para marcar blocos;
+    Python é uma boa linguagem para começar a aprender programação
+    Coletor de lixo para gerenciar automaticamente o uso da memória;
 
-2. Declaração de variável:
+## Declaração de variável:
 
 Diferente de outras linguagens, Python não precisa dizer qual o tipo da variável (Integer, Float,etc)
 Exemplo:
-nome = “João”
-numero_decimal = 2.5
-numero_inteiro = 5
+    nome = “João”
+    numero_decimal = 2.5
+    numero_inteiro = 5
 
 OBS:
-    • Variável sempre começa com letra ou “_”, nunca com números
-    • Variável é case-sensitive, “Nome” é diferente de “nome”
+    Variável sempre começa com letra ou “_”, nunca com números
+    Variável é case-sensitive, “Nome” é diferente de “nome”
 
-3. Como comentar um código:
+## Como comentar um código:
 
 Exemplo 1:
 
-#nome = “João” (Variavel é comentada)​
+    #nome = “João” (Variavel é comentada)​
 
-nome = “João” #Variavel de nome (Variável não é comentada)​
+    nome = “João” #Variavel de nome (Variável não é comentada)​
 
 Exemplo 2:
 
-“””
+    “””
 
-Tudo escrito entre três tremas duplas estará comentado,
+    Tudo escrito entre três tremas duplas estará comentado,
 
-não importando se está quebrado em diferentes linhas
+    não importando se está quebrado em diferentes linhas
 
-  ”””
+    ”””
 
 
-3. Funções:
+## Funções:
 Funções são blocos de comando que rodam apenas quando são chamados.
-Ex: valor_subtracao = 10
-      def subtracao(valor):
-      print(valor)
-valor = valor - valor_subtracao
-print(valor)
-​
-       subtracao(20)
+Ex: 
+    valor_subtracao = 10
+    def subtracao(valor):
+        print(valor)
+    valor = valor - valor_subtracao
+    print(valor)
+    subtracao(20)
 
 4. Comando print:
 Exemplo 1:
