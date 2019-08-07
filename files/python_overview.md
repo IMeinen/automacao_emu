@@ -23,9 +23,9 @@ OBS:
 
 Exemplo 1:
 
-    #nome = “João” (Variavel é comentada)​
+    #nome = “João” (Variavel é comentada)
 
-    nome = “João” #Variavel de nome (Variável não é comentada)​
+    nome = “João” #Variavel de nome (Variável não é comentada)
 
 Exemplo 2:
 
@@ -39,45 +39,54 @@ Exemplo 2:
 
 
 ## Funções:
+
 Funções são blocos de comando que rodam apenas quando são chamados.
-Ex: 
+
+Exemplo 1:
+   
     valor_subtracao = 10
     def subtracao(valor):
         print(valor)
     valor = valor - valor_subtracao
-    print(valor)
+    print(valor)    
     subtracao(20)
 
-4. Comando print:
+## Comando print:
 Exemplo 1:
-    • print(“Hello, World!”)
+
+
+    print(“Hello, World!”)
 
 Exemplo 2:
 
-    • nome = “João”
-    • print(nome)
+    nome = “João”
+    print(nome)
 
-5. Listas:
+## Listas:
 Exemplo 1:
-lista = [“João”, “Maria”, “Marcos”]
+
+    lista = [“João”, “Maria”, “Marcos”]
 
 Exemplo 2:
-lista = [1, 2, 3]
-print(lista[0])#print trará o valor “1” da lista
+
+    lista = [1, 2, 3]
+    print(lista[0])#print trará o valor “1” da lista
 
 OBS:
 No Python a lista sempre começa na posição 0. No exemplo 2 temos três posições na lista, onde:
 posição 0 = 1
 posição 1 = 2
 
-6. Comparações:
-    • Igual: a == b
-    • Diferente: a != b
-    • Menor que: a < b
-    • Menor igual: a <= b
-    • Maior que: a > b
-    • Maior igual: a >= b
-7. Operadores Lógicos:
+## Comparações:
+
+    Igual: a == b
+    Diferente: a != b
+    Menor que: a < b
+    Menor igual: a <= b
+    Maior que: a > b
+    Maior igual: a >= b
+    
+## Operadores Lógicos:
 E: and
 Ex: a = 1
       b = 2
@@ -96,7 +105,7 @@ Não: not
 Ex: x = 5
       print(not(x > 3 and x < 10))
 
-8. Comparação X Atribuição:
+## Comparação X Atribuição:
 
 Devemos tomar cuidado com sinal de comparação (==) e com o sinal de atribuição (=)
 
@@ -110,7 +119,7 @@ Ex: if a == b:
 Ex: a = 2
       b = 4
 
-9. If … elif:
+## If … elif:
 
 Exemplo:
               a = 10
