@@ -87,7 +87,8 @@ posição 1 = 2
     Maior igual: a >= b
     
 ## Operadores Lógicos:
-E: and
+**E: and**
+
 Exemplo:
 
       a = 1
@@ -96,7 +97,7 @@ Exemplo:
       if a < b and c > b:
         print(“Esta validação retornou verdadeiro”)
 
-Ou: or
+**Ou: or**
 Exemplo:
 
        a = 1
@@ -105,7 +106,7 @@ Exemplo:
        if a > b or c > b:
            print(“Esta validação retornou verdadeiro”)
 
-Não: not
+**Não: not**
 Exemplo:
 
       x = 5
