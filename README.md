@@ -92,7 +92,7 @@ Dessa forma, é importante ficar atento ao fato de que os testes precisam ser in
 
 ## 12. Fluxo de criação dos casos de teste
 <div align="center">
-    <img width="750" src="images/fluxo_testes.png">
+    <img width="750" src="images/fluxo_testes_2.png">
 </div>
 
 
