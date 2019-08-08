@@ -98,6 +98,7 @@ Exemplo:
         print(“Esta validação retornou verdadeiro”)
 
 **Ou: or**
+
 Exemplo:
 
        a = 1
@@ -107,6 +108,7 @@ Exemplo:
            print(“Esta validação retornou verdadeiro”)
 
 **Não: not**
+
 Exemplo:
 
       x = 5
