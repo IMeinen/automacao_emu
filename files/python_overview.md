@@ -88,21 +88,27 @@ posição 1 = 2
     
 ## Operadores Lógicos:
 E: and
-Ex: a = 1
+Exemplo:
+
+      a = 1
       b = 2
       c = 3
       if a < b and c > b:
-print(“Esta validação retornou verdadeiro”)
+        print(“Esta validação retornou verdadeiro”)
 
 Ou: or
-Ex: a = 1
+Exemplo:
+
+       a = 1
        b = 2
        c = 3
        if a > b or c > b:
-print(“Esta validação retornou verdadeiro”)
+           print(“Esta validação retornou verdadeiro”)
 
 Não: not
-Ex: x = 5
+Exemplo:
+
+      x = 5
       print(not(x > 3 and x < 10))
 
 ## Comparação X Atribuição:
@@ -111,41 +117,49 @@ Devemos tomar cuidado com sinal de comparação (==) e com o sinal de atribuiç�
 
 “==” serve para realizar uma comparação de um valor com outro
 
-Ex: if a == b:
-…
+Exemplo: 
+
+    if a == b:
+    …
 
 “=” serve para atribuição de valor
 
-Ex: a = 2
+Exemplo:
+
+      a = 2
       b = 4
 
 ## If … elif:
 
 Exemplo:
-              a = 10
-              b = 20
-  if b > a:
-print(“b é maior que a”)
-  elif b == a:
-print(“b é igual a a”)
-  else:
-print(“b é menor que a”)
 
-10. While:
+    a = 10
+    b = 20
+    if b > a:
+        print(“b é maior que a”)
+    elif b == a:
+        print(“b é igual a a”)
+    else:
+        print(“b é menor que a”)
+
+## While:
 
 O Comando while é um laço que irá executar tudo que estiver dentro dele enquanto sua condição for verdadeira.
 
-Ex: a = 1
-      while a < 6:
-print(a)
-a += 1
+Exemplo: 
+
+    a = 1
+    while a < 6:
+        print(a)
+        a += 1
 
 IMPORTANTE: Sempre na cadeia de comandos dentro do while, o valor deve ser incrementado/quebrado, caso contrário o loop continuará infinitamente.
 
-
-11. For:
+## For:
 O comando for é um laço que se repete por um número determinado de vezes. Este número de vezes é determinado antes do início do comando.
-Ex: frutas = ["maçã", "banana", "cereja"]
-       for item in frutas:
+Exemplo:
+
+    frutas = ["maçã", "banana", "cereja"]
+    for item in frutas:
        print(item)
 
