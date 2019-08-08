@@ -6,11 +6,11 @@ Utilizando o conceito de linguagem ubíqua onde o foco é o fluxo em que o códi
 
 ## Dentre as praticas de BDD obtemos:
 
-*Entendimento de todas as partes do processo;
-*Documentação viva;
-*Redução da perda do tempo de confecção de casos de testes;
-*Redução do custo;
-*Automação.
+    *Entendimento de todas as partes do processo;
+    *Documentação viva;
+    *Redução da perda do tempo de confecção de casos de testes;
+    *Redução do custo;
+    *Automação.
 
 ## Metodologia:
 
@@ -21,19 +21,19 @@ Utilizando o conceito de linguagem ubíqua onde o foco é o fluxo em que o códi
 ## Palavras-chave:
 
 <div align="center">
-    <img width="750" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd2.png">
+    <img width="650" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd2.png">
 </div>
 
 <div align="center">
-    <img width="750" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd3.png">
+    <img width="650" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd3.png">
 </div>
 
 <div align="center">
-    <img width="750" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd4.png">
+    <img width="650" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd4.png">
 </div>
 
 <div align="center">
-    <img width="750" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd5.png">
+    <img width="650" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd5.png">
 </div>
 
 Exemplo:
