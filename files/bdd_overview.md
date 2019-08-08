@@ -15,7 +15,7 @@ Utilizando o conceito de linguagem ubíqua onde o foco é o fluxo em que o códi
 ## Metodologia:
 
 <div align="center">
-    <img width="750" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd1.png">
+    <img width="350" heigth="500" src="https://github.com/IMeinen/automacao_emu/blob/master/images/bdd1.png">
 </div>
 
 ## Palavras-chave:
