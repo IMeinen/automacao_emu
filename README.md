@@ -17,7 +17,7 @@
 
 
 ## 1. Objetivo
-O objetivo do sistema é emular a arquitetura de automação do framework de um cliente específico , tornando assim possível a automação de qualquer página web.
+O objetivo do sistema é emular a arquitetura de automação do framework de um cliente específico tornando assim possível a automação de qualquer página web.
 
 ## 2. Pré-requisitos
 * [1. Instalação das dependências](1-objetivo)
@@ -29,7 +29,7 @@ O objetivo do sistema é emular a arquitetura de automação do framework de um 
 * Redução de custos;
 * Redução da possibilidade de erros;
 * Maior velocidade nos testes;
-* Utilização da automação nos testes de regressão;
+* Utilização da automação nos testes de regressão.
 
 
 ## 4. Como funciona a automação de testes
