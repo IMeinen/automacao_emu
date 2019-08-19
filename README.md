@@ -10,7 +10,6 @@
 * [7. Como identificar o Elemento](#7-como-identificar-o-elemento)
 * [8. Quando automatizar os testes](#8-quando-automatizar-os-testes)
 * [9. Quais testes podem ser automatizados](#9-quais-testes-podem-ser-automatizados)
-* [9. Quais testes podem ser automatizados](#9-quais-testes-podem-ser-automatizados)
 * [10. Os principais desafios da automação de testes](#10-os-principais-desafios-da-automação-de-testes)
 * [11. A arquitetura do projeto](#11-a-arquitetura-do-projeto)
 * [12. Fluxo de criação dos casos de teste](#12-fluxo-de-criação-dos-casos-de-teste)
@@ -20,7 +19,7 @@
 O objetivo do sistema é emular a arquitetura de automação do framework de um cliente específico tornando assim possível a automação de qualquer página web.
 
 ## 2. Pré-requisitos
-* [1. Instalação do ambiente de automação](https://github.com/IMeinen/automacao_emu/blob/master/files/inst_amb.md)
+* [1. Instalação do Ambiente de Automação](https://github.com/IMeinen/automacao_emu/blob/master/files/inst_amb.md)
 * [2. Overview Python](https://github.com/IMeinen/automacao_emu/blob/master/files/python_overview.md)
 * [3. Overview BDD](https://github.com/IMeinen/automacao_emu/blob/master/files/bdd_overview.md)
 
