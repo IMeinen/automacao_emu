@@ -95,6 +95,10 @@ Neste caso será deixado na pasta “Downloads”.
 
 
 <div align="center">
+    <img width="750" heigth="550" src=https://github.com/IMeinen/automacao_emu/blob/master/images/find_folder.png">
+</div>
+
+<div align="center">
     <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/gherkin.png">
 </div>
 
@@ -102,9 +106,6 @@ Neste caso será deixado na pasta “Downloads”.
     <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/gherkin2.png">
 </div>
 
-<div align="center">
-    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/gherkin2.png">
-</div>
 
 
 Reiniciar o Pycharm após a instalação do plugin.
