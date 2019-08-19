@@ -3,7 +3,7 @@
 
 ##### 1. Acessar o aplicativo “Software Ubuntu” para download:
 <div align="left">
-    <img width="150" heigth="150" src="https://github.com/IMeinen/automacao_emu/blob/master/images/atualizaor.png">
+    <img width="100" heigth="100" src="https://github.com/IMeinen/automacao_emu/blob/master/images/aplicativos.png">
 </div>
 
 ##### 2. Realizar o download do Chrome no Linux
