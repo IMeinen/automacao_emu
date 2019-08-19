@@ -93,10 +93,12 @@ Neste caso será deixado na pasta “Downloads”.
     <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/pycharm5.png">
 </div>
 
-
 <div align="center">
-    <img width="750" heigth="550" src=https://github.com/IMeinen/automacao_emu/blob/master/images/find_folder.png">
+    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/find_folder.png">
 </div>
+
+
+##### 8. Clicar na "features.feature" e instalar o Gherkin:
 
 <div align="center">
     <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/gherkin.png">
@@ -111,10 +113,39 @@ Neste caso será deixado na pasta “Downloads”.
 Reiniciar o Pycharm após a instalação do plugin.
 
 
-##### 7. Abrir o PyCharm e importar o projeto:
+##### 9. Configurar “Project Interpreter”:
+
+<div align="center">
+    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/gherkin3.png">
+</div>
+
+Clicar na opção “Project Interpreter” e verificar se existe a opção “Python 3.6”, clicar em "OK":
+
+<div align="center">
+    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/interpreter2.png">
+</div>
+
+Caso não seja apresentado esta opção, retornando somente "No Interpreter", clicar na engrenagem ao lado do campo            e clicar na opção "add" .
+
+Na tela abaixo, deve ser selecionado a opção <System Interpreter> e clicar na opção "OK", conforme print abaixo:
+
+<div align="center">
+    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/interpreter.png">
+</div>
+
+O sistema adicionará esta opção no “Project Interpreter”, em seguida devemos selecionar a opção “Python 3.6” e clicar em "OK".
+
+<div align="center">
+    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/final_Py_1.png">
+</div>
+
+##### 10. Após estes passos seu ambiente de automação estará instalado e configurado com sucesso, faltando somente informar o caminho que encontra-se o chromedriver para execução dos testes automatizados, no arquivo “Locators.py”:
+
+self.path = "/home/usuariodapasta/Downloads/chromedriver"
+
+Exemplo:
 
 
-
-
-
-
+<div align="center">
+    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/final_Py_2.png">
+</div>
