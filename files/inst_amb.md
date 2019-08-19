@@ -3,7 +3,7 @@
 
 ##### 1. Acessar o aplicativo “Software Ubuntu” para download:
 <div align="left">
-    <img width="350" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/atualizaor.png">
+    <img width="150" heigth="150" src="https://github.com/IMeinen/automacao_emu/blob/master/images/atualizaor.png">
 </div>
 
 ##### 2. Realizar o download do Chrome no Linux
@@ -12,10 +12,10 @@
 
 ##### 4. Realizar o download do Pycharm CE:
 <div align="center">
-    <img width="350" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/pycharm1.png">
+    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/pycharm1.png">
 </div>
 <div align="center">
-    <img width="350" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/pycharm2.png">
+    <img width="750" heigth="550" src="https://github.com/IMeinen/automacao_emu/blob/master/images/pycharm2.png">
 </div>
 
 ##### 5. Realizar a instalação do PyCharm, instalando os pacotes disponíveis com “Install and Enable”
