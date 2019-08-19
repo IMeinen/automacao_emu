@@ -1,13 +1,22 @@
 
 # Instalação do ambiente Linux –Ubuntu
 
-##### 1. Acessar o aplicativo “Software Ubuntu” para download
+##### 1. Acessar o aplicativo “Software Ubuntu” para download:
+<div align="left">
+    <img width="350" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/atualizaor.png">
+</div>
 
 ##### 2. Realizar o download do Chrome no Linux
 
 ##### 3. Instalar o git
 
 ##### 4. Realizar o download do Pycharm CE:
+<div align="center">
+    <img width="350" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/pycharm1.png">
+</div>
+<div align="center">
+    <img width="350" heigth="350" src="https://github.com/IMeinen/automacao_emu/blob/master/images/pycharm2.png">
+</div>
 
 ##### 5. Realizar a instalação do PyCharm, instalando os pacotes disponíveis com “Install and Enable”
 
