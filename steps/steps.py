@@ -15,22 +15,22 @@ def step_impl(context):
 def step_impl(context):
     context.obj.acessar_site()
 
-#
-# @when('seleciono a aba oportunidades verificando as vagas disponiveis')
-# def step_impl(context):
-#     context.obj.acessar_oportunidades()
-#
-#
-# @then('as vagas de {tipo_vaga} são encontradas com sucesso')
-# def step_impl(context, tipo_vaga):
-#     assert context.obj.validar_vaga_dev(tipo_vaga) is True
 
-
-@when('seleciono a aba oportunidades verificando vagas de desenvolvedor')
+@when('seleciono a aba oportunidades verificando as vagas disponiveis')
 def step_impl(context):
     context.obj.acessar_oportunidades()
 
 
-@then('as vagas de desenvolvedor são encontradas com sucesso')
-def step_impl(context):
-    assert context.obj.validar_vagas() is True
+@then('as vagas de {tipo_vaga} são encontradas com sucesso')
+def step_impl(context, tipo_vaga):
+    assert context.obj.validar_vaga_dev(tipo_vaga) is True
+
+
+# @when('seleciono a aba oportunidades verificando vagas de desenvolvedor')
+# def step_impl(context):
+#     context.obj.acessar_oportunidades()
+#
+#
+# @then('as vagas de desenvolvedor são encontradas com sucesso')
+# def step_impl(context):
+#     assert context.obj.validar_vagas() is True
