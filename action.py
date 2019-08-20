@@ -31,17 +31,12 @@ class MinhaAction(AcessarGoogle):
             print('Vagas de {} não encontradas!'.format(tipo_vaga))
 
     def validar_vagas(self) -> bool:
-
+        
         lista = self.selecionar_vagas_disponiveis()
-        if any("designer" in texto.lower() for texto in lista):
+        if any("cozinheiro" in texto.lower() for texto in lista):
             print('Vagas de designer disponíveis.')
             return True
-        elif any("desenvolvedor" in texto.lower() for texto in lista):
-            print('Vagas de desenvolvedor disponíveis.')
-            return True
-        elif any("estagiário" in texto.lower() for texto in lista):
-            print('Vagas de estagiário disponíveis')
-            return True
+
         else:
             print('Vagas indisponíveis no momento.')
             return False
